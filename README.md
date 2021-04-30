@@ -1,0 +1,1 @@
+# Qt_Rich_Text_Editor
